@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/smiling-face-with-sunglasses.png" width="64"/>
+<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/crossed-swords.png" width="64"/>
 
 # BladeClient
 
