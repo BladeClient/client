@@ -29,7 +29,7 @@ Minecraft `1.8.9` · Java `8`
 
 ## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/star-struck.png" width="22"/> BladeClient nima?
 
-BladeClient — Minecraft 1.8.9 uchun maxsus ishlab chiqilgan Forge mod. PvP o'yinchilar uchun mo'ljallangan bo'lib, 50 dan ortiq modul, zamonaviy dark flat dizayn, kosmetikalar va Discord RPC ni o'z ichiga oladi.
+BladeClient — Minecraft 1.8.9 uchun maxsus ishlab chiqilgan Forge mod. PvP o'yinchilar uchun mo'ljallangan bo'lib, 50 dan ortiq modul, zamonaviy dizayn, larni o'z ichiga oladi.
 
 ## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/inbox-tray.png" width="22"/> O'rnatish
 
