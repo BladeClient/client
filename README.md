@@ -227,7 +227,6 @@ Tilni o'zgartirish: **ClickGUI → Settings → Switch Language**
 
 - <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/locked.png" width="16"/> Bu loyiha **yopiq kodli** — kodlar tarqatilmaydi
 - <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/no-entry.png" width="16"/> Faqat **Minecraft 1.8.9 + Forge** bilan ishlaydi
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/memo.png" width="16"/> Nametags faqat haqiqiy o'yinchilar uchun ishlaydi (NPC lar ko'rinmaydi)
 
 ---
 
