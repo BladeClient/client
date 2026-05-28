@@ -8,8 +8,6 @@
 
 Minecraft `1.8.9` · Java `8`
 
-*Ushbu loyiha yopiq kodli (closed source). Faqat foydalanish uchun mo'ljallangan.*
-
 </div>
 
 ---
