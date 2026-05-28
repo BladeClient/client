@@ -33,20 +33,6 @@ Minecraft `1.8.9` · Forge `11.15.1.2318` · Java `8`
 
 BladeClient — Minecraft 1.8.9 uchun maxsus ishlab chiqilgan Forge mod. PvP o'yinchilar uchun mo'ljallangan bo'lib, 50 dan ortiq modul, zamonaviy dark flat dizayn, kosmetikalar va Discord RPC ni o'z ichiga oladi.
 
-**Asosiy xususiyatlar:**
-
-| | Xususiyat | Tavsif |
-|---|---|---|
-| <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/desktop-computer.png" width="18"/> | Maxsus bosh menyu | BladeClient logosi, Singleplayer, Multiplayer, Cosmetics, Options, Quit |
-| <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/control-knobs.png" width="18"/> | ClickGUI | Badlion uslubidagi dark flat mod menyu |
-| <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/artist-palette.png" width="18"/> | HUD Editor | Drag-and-drop orqali HUD elementlarini joylashtirish |
-| <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/globe-showing-asia-australia.png" width="18"/> | Ko'p tilli | O'zbek va Ingliz tili |
-| <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/t-shirt.png" width="18"/> | Kosmetikalar | Plash, Qanotlar, Shlyapa, Bandana |
-| <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/video-game.png" width="18"/> | Discord RPC | Discord da faoliyatingizni ko'rsatadi |
-| <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/floppy-disk.png" width="18"/> | Config tizimi | Har bir modul uchun alohida JSON config |
-
----
-
 ## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/inbox-tray.png" width="22"/> O'rnatish
 
 ### Talablar
