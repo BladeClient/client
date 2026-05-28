@@ -6,7 +6,7 @@
 
 **Minecraft 1.8.9 uchun qurilgan zamonaviy Forge client**
 
-Minecraft `1.8.9` · Forge `11.15.1.2318` · Java `8`
+Minecraft `1.8.9` · Java `8`
 
 *Ushbu loyiha yopiq kodli (closed source). Faqat foydalanish uchun mo'ljallangan.*
 
@@ -20,7 +20,7 @@ Minecraft `1.8.9` · Forge `11.15.1.2318` · Java `8`
 - [O'rnatish](#ornatish)
 - [Ishga tushirish](#ishga-tushirish)
 - [Asosiy tugmalar](#asosiy-tugmalar)
-- [Mod menyu (ClickGUI)](#mod-menyu-clickgui)
+- [Mod menyu](#mod-menyu-clickgui)
 - [HUD Editor](#hud-editor)
 - [Modullar](#modullar)
 - [Kosmetikalar](#kosmetikalar)
