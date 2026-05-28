@@ -38,16 +38,12 @@ BladeClient — Minecraft 1.8.9 uchun maxsus ishlab chiqilgan Forge mod. PvP o'y
 ### Talablar
 
 - Minecraft **1.8.9**
-- Minecraft Forge **11.15.1.2318**
-- Java **8** (JRE yoki JDK)
 
 ### Qadamlar
 
-**1.** [Minecraft Forge 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) ni yuklab o'rnating.
+**1.** [BladeClienni yuklab oling](https://github.com/BladeClient/client/releases/download/Release-1.0/BladeClient-1.0.jar) ni yuklab o'rnating.
 
-**2.** `BladeClient-1.0.jar` faylini [Releases](../../releases) bo'limidan yuklab oling.
-
-**3.** JAR faylni `.minecraft/mods/` papkasiga joylashtiring:
+**2.** JAR faylni `.minecraft/mods/` papkasiga joylashtiring:
 
 ```
 .minecraft/
@@ -65,22 +61,6 @@ BladeClient — Minecraft 1.8.9 uchun maxsus ishlab chiqilgan Forge mod. PvP o'y
 
 O'rnatgandan so'ng Minecraft ni ishga tushiring. Bosh menyu avtomatik ravishda BladeClient dizayniga o'zgaradi:
 
-```
-[ BLADECLIENT ]
-
-  Singleplayer
-  Multiplayer
-  Cosmetics
-  Options
-  Quit Game
-
-        Blade Client v1.0
-```
-
-O'yinga kirgach barcha modullar va HUD elementlari avtomatik yuklanadi.
-
----
-
 ## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/keyboard.png" width="22"/> Asosiy tugmalar
 
 | Tugma | Vazifasi |
@@ -97,26 +77,7 @@ O'yinga kirgach barcha modullar va HUD elementlari avtomatik yuklanadi.
 
 ## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/control-knobs.png" width="22"/> Mod menyu (ClickGUI)
 
-O'yinda `RShift` tugmasini bosing. Quyidagi interfeys ochiladi:
-
-```
-┌─────────────────────────────────────────────────────┐
-│  [Logo] BLADECLIENT                             [X]  │
-│         Dark flat BladeClient interface              │
-├──────────┬──────────────────────────────────────────┤
-│          │  [Mods] [Cosmetics] [Settings] [Profiles] │
-│  FILTER  ├──────────────────────────────────────────┤
-│          │                                           │
-│  All     │  [SP] Sprint    [SA] SafeWalk  [MO] ...  │
-│  PvP     │                                           │
-│  Movement│  [FU] Fullbright [FR] Freelook [ES] ESP  │
-│  Visual  │                                           │
-│  Player  │  ...                                      │
-│  Misc    │                                           │
-│          │                                           │
-│ Edit HUD │                                           │
-└──────────┴───────────────────────────────────────────┘
-```
+O'yinda `RShift` tugmasini bosing. Mod menyu interfeysi ochiladi:
 
 ### Modulni yoqish / o'chirish
 
@@ -150,32 +111,6 @@ Chap sidebar da kategoriyani tanlang:
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/artist-palette.png" width="22"/> HUD Editor
-
-`LCtrl` tugmasini bosing yoki ClickGUI → **Edit HUD** tugmasini bosing.
-
-HUD elementlarini **sichqoncha bilan sudrab** xohlagan joyga qo'ying. Qo'yib yuborganingizda pozitsiya avtomatik saqlanadi.
-
-Mavjud HUD elementlari:
-
-| Element | Tavsif |
-|---|---|
-| Watermark | BladeClient v1.0 yozuvi |
-| FPS | Joriy kadrlar soni |
-| Ping | Server bilan kechikish (ms) |
-| CPS | Soniyada bosishlar soni (L / R) |
-| Armor | Zirh holati |
-| Potions | Faol effektlar |
-| Combo | Ketma-ket zarba hisoblagich |
-| Keystrokes | WASD + sichqoncha tugmalari |
-| Server | Joriy server manzili |
-| ResourcePack | Faol resurs paketi |
-| ArrayList | Yoqilgan modullar ro'yxati |
-
-> HUD elementlari tegishli modul yoqilganda avtomatik ko'rinadi, o'chirilganda yashirinadi.
-
----
-
 ## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/puzzle-piece.png" width="22"/> Modullar
 
 ### <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/crossed-swords.png" width="18"/> Combat
@@ -186,7 +121,7 @@ Mavjud HUD elementlari:
 | **AutoGG** | O'yin tugaganda `gg`, boshlanishida `!gl` yuboradi | GG Message, GL Message |
 | **ComboCounter** | Ketma-ket zarba hisoblagich | — |
 | **HitBoxes** | Kengaytirilgan hitbox | Hitbox Size |
-| **HitDelayFix** | Zarba kechikishini olib tashlaydi (blok buzishga ta'sir qilmaydi) | — |
+| **HitDelayFix** | Zarba kechikishini olib tashlaydi | — |
 | **KillEffects** | O'ldirganingizda chaqmoq chaqadi | — |
 | **TargetHUD** | Nishon haqida ma'lumot ko'rsatadi | — |
 
@@ -195,7 +130,6 @@ Mavjud HUD elementlari:
 | Modul | Tavsif |
 |---|---|
 | **Sprint** | Avtomatik yugurish (omni-sprint) |
-| **SafeWalk** | Qirra chetidan tushib ketmaslik |
 | **MouseDelayFix** | Sichqoncha bosish kechikishini olib tashlaydi |
 
 ### <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/eyes.png" width="18"/> Visual
@@ -293,7 +227,7 @@ Tilni o'zgartirish: **ClickGUI → Settings → Switch Language**
 
 ## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/warning.png" width="22"/> Muhim eslatmalar
 
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/locked.png" width="16"/> Bu loyiha **yopiq kodli** — manba kodi tarqatilmaydi
+- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/locked.png" width="16"/> Bu loyiha **yopiq kodli** — kodlar tarqatilmaydi
 - <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/no-entry.png" width="16"/> Faqat **Minecraft 1.8.9 + Forge** bilan ishlaydi
 - <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/shield.png" width="16"/> AimAssist do'stlaringizga ta'sir qilmaydi — Friend Manager orqali do'st qo'shing
 - <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/memo.png" width="16"/> Nametags faqat haqiqiy o'yinchilar uchun ishlaydi (NPC lar ko'rinmaydi)
@@ -302,6 +236,6 @@ Tilni o'zgartirish: **ClickGUI → Settings → Switch Language**
 
 <div align="center">
 
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/red-heart.png" width="20"/> BladeClient — Minecraft PvP jamoasi uchun
+<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/red-heart.png" width="20"/> BladeClient — by BladeClient
 
 </div>
